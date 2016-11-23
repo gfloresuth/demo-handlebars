@@ -1,0 +1,31 @@
+{
+  "name": "demo-handlebars",
+  "version": "1.0.0",
+  "description": "Demo handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "dependencies":{
+    "express":"latest",
+    "body-parser":"latest",
+    "bluebird":"latest",
+    "express-handlebars":"latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfloresuth/demo-handlebars.git"
+  },
+  "keywords": [
+    "nodejs",
+    "handlebars",
+    "express"
+  ],
+  "author": "Gustavo Adolfo Flores González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfloresuth/demo-handlebars/issues"
+  },
+  "homepage": "https://github.com/gfloresuth/demo-handlebars#readme"
+}
